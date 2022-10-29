@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://wallpaperaccess.com/full/17520.jpg");
+    url("https://www.pixel4k.com/wp-content/uploads/2018/03/Deep%20Space%204K4145111940.jpg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://wallpaperaccess.com/full/17520.jpg") center center fixed;
+    url("https://www.pixel4k.com/wp-content/uploads/2018/03/Deep%20Space%204K4145111940.jpg") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://wallpaperaccess.com/full/17520.jpg") !important;
+      url("https://www.pixel4k.com/wp-content/uploads/2018/03/Deep%20Space%204K4145111940.jpg") !important;
   }
 }
